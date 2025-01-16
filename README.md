@@ -23,6 +23,9 @@
             
 🎯 Estou motivada a continuar aprendendo e contribuindo para projetos desafiadores que ampliem minhas habilidades técnicas e interpessoais.
 
+![Snake animation](https://github.com/lua-rib/lua-rib/blob/output/github-contribution-grid-snake.svg)
+
+
 ## Estatísticas do GitHub
 
 <div>
