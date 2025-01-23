@@ -21,7 +21,7 @@
 - **Ferramentas e Plataformas:**
 - <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/>
             
-🎯 Estou motivada a continuar aprendendo e contribuindo para projetos desafiadores que ampliem minhas habilidades técnicas e interpessoais.
+🎯 "It's never too late to reinvent the bicycle." - Daron Malakian / Serj Tankian.
 
 ![Snake animation](https://github.com/lua-rib/lua-rib/blob/output/github-contribution-grid-snake.svg)
 
