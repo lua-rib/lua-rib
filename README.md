@@ -21,7 +21,7 @@
 - **Ferramentas e Plataformas:**
 - <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/>
             
-🎯 "It's never too late to reinvent the bicycle." - Daron Malakian / Serj Tankian.
+🎯 **"It's never too late to reinvent the bicycle."** - Daron Malakian / Serj Tankian.
 
 ## Estatísticas do GitHub
 
@@ -31,7 +31,11 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lua-rib&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://lua-rib.github.io/lua-rib/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
