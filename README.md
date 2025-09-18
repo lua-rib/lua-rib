@@ -1,9 +1,9 @@
 # Olá, me chamo Luana! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando como **Expert em Interações** na **Teleperformance**, focada em atendimento e mediação de conflitos via chat e e-mail.
-- 🌱 Atualmente estou aprendendo **desenvolvimento web** e aprimorando meus conhecimentos em **HTML, CSS, JavaScript**, além de explorar ferramentas como **Git/GitHub**.
-- 👯 Estou procurando colaborar em **projetos de desenvolvimento web**, especialmente aqueles que envolvam **tecnologias front-end** e práticas de versionamento.
+- 🔭 Atualmente estou trabalhando como **Estagiária de TI** no **SENAC**, apoiando os servidores da área nas atividades administrarivas referente à área de Tecnologia da Informação.
+- 🌱 Atualmente estou aprendendo **desenvolvimento web full stack**, estudando **JavaScript** e **TypeScript** no front-end e back-end, além de ferramentas e frameworks como **React (Hooks, Redux), Node.js, Express e NoSQL**.
+- 👯 Estou procurando colaborar em **projetos de desenvolvimento web**.
 - 🤔 Estou procurando ajuda com **aperfeiçoamento de técnicas em frameworks modernos e boas práticas no desenvolvimento de sistemas**.
 
 ## Contatos:
