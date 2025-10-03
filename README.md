@@ -1,7 +1,7 @@
 # Olá, me chamo Luana! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando como **Estagiária de TI** no **SENAC**, apoiando os servidores da área nas atividades administrativas referente à área de Tecnologia da Informação.
+
 - 🌱 Atualmente estou aprendendo **desenvolvimento web full stack**, estudando **JavaScript** e **TypeScript** no front-end e back-end, além de ferramentas e frameworks como **React (Hooks, Redux), Node.js, Express e NoSQL**.
 - 👯 Estou procurando colaborar em **projetos de desenvolvimento web**.
 - 🤔 Estou procurando ajuda com **aperfeiçoamento de técnicas em frameworks modernos e boas práticas no desenvolvimento de sistemas**.
