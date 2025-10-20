@@ -26,10 +26,12 @@
 ## Estatísticas do GitHub
 
 <div>
-<a href="https://github.com/lua-rib">
-<img loading="lazy" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lua-rib&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" width="400px" src="https://github-readme-stats.vercel.app/api?username=lua-rib&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<img
+align="left"
+title="Github stats"
+height="200"
+style="padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api?username=lua-rib&show_icons=true&theme=tokyonight&include_all_commits=true@locale=pt-br"</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lua-rib/lua-rib/output/github-contribution-grid-snake-dark.svg">
