@@ -27,8 +27,8 @@
 
 <div>
 <a href="https://github.com/lua-rib">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lua-rib&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lua-rib&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lua-rib&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" width="400px" src="https://github-readme-stats.vercel.app/api?username=lua-rib&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <picture>
