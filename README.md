@@ -31,7 +31,7 @@ align="left"
 title="Github stats"
 height="200"
 style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api?username=lua-rib&show_icons=true&theme=tokyonight&include_all_commits=true@locale=pt-br"
+src="https://github-readme-stats.vercel.app/api?username=lua-rib&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 </div>
             
 <div>
@@ -40,7 +40,7 @@ align="left"
 title="Github stats"
 height="200"
 style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=lua-rib&theme=tokyonight&custom_title=Tecnologias&langs_count=7"            
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=lua-rib&theme=tokyonight&custom_title=Tecnologias&langs_count=7"
 </div>
 
 <picture>
